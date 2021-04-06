@@ -1,0 +1,11 @@
+.git/
+.github/
+.terraform/
+.vscode/
+doc/
+dockerfiles/
+kubernetes/
+node_modules/
+schemas/
+templates/
+tools/

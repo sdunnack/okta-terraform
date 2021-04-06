@@ -1,0 +1,17 @@
+.env
+.ipynb_checkpoints
+.terraform
+.terraform.lock.hcl
+.tls
+.venv
+*.log
+*.py[cod]
+*.tfstate.*.backup
+*.tfstate.backup
+**/generated-charts/*/templates
+*.tsbuildinfo
+*.yaml.dec
+dist
+node_modules
+__pycache__
+*.tfstate
